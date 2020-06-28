@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import random
-import math
 import pickle
 
 def nonlin(x,deriv=False):
